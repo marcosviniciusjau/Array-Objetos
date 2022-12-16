@@ -1,0 +1,13 @@
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\bin\Debug\netcoreapp3.1\ArrayObjetos.exe
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\bin\Debug\netcoreapp3.1\ArrayObjetos.deps.json
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\bin\Debug\netcoreapp3.1\ArrayObjetos.runtimeconfig.json
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\bin\Debug\netcoreapp3.1\ArrayObjetos.runtimeconfig.dev.json
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\bin\Debug\netcoreapp3.1\ArrayObjetos.dll
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\bin\Debug\netcoreapp3.1\ArrayObjetos.pdb
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.csprojAssemblyReference.cache
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.AssemblyInfoInputs.cache
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.AssemblyInfo.cs
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.csproj.CoreCompileInputs.cache
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.dll
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.pdb
+C:\Dev\App\2021\ArrayObjetos\ArrayObjetos\ArrayObjetos\obj\Debug\netcoreapp3.1\ArrayObjetos.genruntimeconfig.cache
